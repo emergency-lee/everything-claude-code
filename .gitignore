@@ -24,3 +24,7 @@ node_modules/
 # Personal configs (if any)
 personal/
 private/
+
+# Local AI agent configuration and state
+.claude/
+.codex/
